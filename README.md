@@ -5,3 +5,7 @@
 #### [A D3 version 4 service for use with Angular 2+.](https://github.com/tomwanzek/d3-ng2-service)
 #### [data-driven Angular animations](https://github.com/tomwanzek/ngx-anime)
 #### [How To Build A Chart Component in Angular 2 and D3 ](http://mean.expert/2016/09/17/angular-2-chart-component-revised/)
+#### [Deploying an Angular2 app to Github Pages](http://colinmorris.github.io/blog/ng2-poor-mans-deploy)
+#### [how-to-build-nested-model-driven-forms-in-angular-2](https://scotch.io/tutorials/how-to-build-nested-model-driven-forms-in-angular-2)
+
+#### [Visualizing Data with Angular and D3](https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb)
