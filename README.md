@@ -9,3 +9,4 @@
 #### [how-to-build-nested-model-driven-forms-in-angular-2](https://scotch.io/tutorials/how-to-build-nested-model-driven-forms-in-angular-2)
 
 #### [Visualizing Data with Angular and D3](https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb)
+#### [Accessing DOM element in Angular 2 and change the element's class attribute](https://stackoverflow.com/questions/42382033/accessing-dom-element-in-angular-2-and-change-the-elements-class-attribute)
