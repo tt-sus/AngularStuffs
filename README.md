@@ -11,3 +11,4 @@
 #### [Visualizing Data with Angular and D3](https://medium.com/@lsharir/visualizing-data-with-angular-and-d3-209dde784aeb)
 #### [Accessing DOM element in Angular 2 and change the element's class attribute](https://stackoverflow.com/questions/42382033/accessing-dom-element-in-angular-2-and-change-the-elements-class-attribute)
 #### [Angular 2 — Explore The Renderer Service](https://netbasal.com/angular-2-explore-the-renderer-service-e43ef673b26c)
+#### [Angular 2 — Dynamic template](http://embed.plnkr.co/vmyTMfgJptkdj3D1NJpu/)
